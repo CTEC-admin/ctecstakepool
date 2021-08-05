@@ -1,0 +1,9 @@
+# ctecstakepool
+{
+"name":"CTEC Stake Pool[CTEC]#2118",
+"ticker":"CTEC",
+"discordId":"804156700394651680",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/CTEC-admin/ctecstakepool/main/poolMetaData.json",
+"validation":""
+}
