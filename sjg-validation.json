@@ -5,5 +5,5 @@
 "discordId":"804156700394651680",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/CTEC-admin/ctecstakepool/main/poolMetaData.json",
-"validation":""
+"validation":"https://raw.githubusercontent.com/CTEC-admin/ctecstakepool/main/sjg-validation.json"
 }
